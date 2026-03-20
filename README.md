@@ -4,7 +4,7 @@ This repository contains examples of **Linear Programming and Integer Programmin
 
 ## Notebooks
 
-**MaximiseProfitBowl&Mug.ipynb**
+**maximise_profit_bowl_and_mug.ipynb**
 Demonstrates a linear programming problem to maximize profit for products such as bowls and mugs.
 
 **integer_programming_diet_minimise.ipynb**
