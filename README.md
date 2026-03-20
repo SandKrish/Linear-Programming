@@ -7,7 +7,7 @@ This repository contains examples of **Linear Programming and Integer Programmin
 **MaximiseProfitBowl&Mug.ipynb**
 Demonstrates a linear programming problem to maximize profit for products such as bowls and mugs.
 
-**IntegerProgramming_Diet_minimise.ipynb**
+**integer_programming_diet_minimise.ipynb**
 Implements an integer programming model to minimize cost in a diet optimization problem.
 
 ## Tools Used
