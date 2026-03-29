@@ -2,8 +2,6 @@
 
 This repository contains examples of **Linear Programming and Integer Programming implemented in Python**.
 
-## Notebooks
-
 **maximise_profit_bowl_and_mug.ipynb**
 Demonstrates a linear programming problem to maximize profit for products such as bowls and mugs.
 
